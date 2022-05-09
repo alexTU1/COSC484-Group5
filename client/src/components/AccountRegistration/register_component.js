@@ -10,7 +10,7 @@ import './AccountRegistration.css';
 const Register = () => {
     return (
 		<>
-        <h1>EasyEatsTU Account Registration</h1>
+        <h1 className="login-centered">EasyEatsTU Account Registration</h1>
 		<form class = "suContent" method = "get">
 			<div class = "contain">
 				<h2>Please Fill Out The Fields To Sign Up</h2>
