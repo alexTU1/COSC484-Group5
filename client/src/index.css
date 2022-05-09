@@ -260,7 +260,7 @@ ul{
   width: 100%;
   z-index: -200px;
   bottom: 0 !important;
-  position:absolute;
+  position:relative;
   background-color: rgba(54, 53, 53, 0.561);
 }
 
