@@ -28,8 +28,10 @@ button:hover{
     opacity: 1;
 }
 
-h1 .login-centered{
+.login-centered{
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 hr{
